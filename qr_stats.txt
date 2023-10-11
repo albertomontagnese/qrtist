@@ -1,0 +1,4 @@
+Generated 100 QR codes.
+Total size of the folder: 0.16 MB
+Average size of each QR code: 1.65 KB
+Time taken: 2.13 seconds

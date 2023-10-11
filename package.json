@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "jimp": "^0.22.10",
+    "jsqr": "^1.4.0",
+    "qr-image": "^3.2.0",
+    "qr-scanner": "^1.4.2",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4"
+  }
+}

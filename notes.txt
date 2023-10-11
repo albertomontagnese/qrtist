@@ -1,0 +1,4 @@
+1 code approx 2kb
+1 million = 2gb
+10 million = 20gb
+1 billion = 2 tera
